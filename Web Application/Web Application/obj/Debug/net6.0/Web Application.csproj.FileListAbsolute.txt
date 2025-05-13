@@ -1,0 +1,30 @@
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\appsettings.Development.json
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\appsettings.json
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.staticwebassets.runtime.json
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.exe
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.deps.json
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.runtimeconfig.json
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.dll
+D:\GIT\Web Application\Web Application\bin\Debug\net6.0\Web Application.pdb
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.AssemblyInfoInputs.cache
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.AssemblyInfo.cs
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.csproj.CoreCompileInputs.cache
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.RazorAssemblyInfo.cache
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.RazorAssemblyInfo.cs
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets\msbuild.Web Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets\msbuild.build.Web Application.props
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Application.props
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web Application.props
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\scopedcss\bundle\Web Application.styles.css
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\scopedcss\projectbundle\Web Application.bundle.scp.css
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.dll
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\refint\Web Application.dll
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.pdb
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\Web Application.genruntimeconfig.cache
+D:\GIT\Web Application\Web Application\obj\Debug\net6.0\ref\Web Application.dll

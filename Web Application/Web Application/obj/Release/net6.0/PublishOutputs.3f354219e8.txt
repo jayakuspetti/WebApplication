@@ -1,0 +1,7 @@
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\Web Application.exe
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\Web Application.dll
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\Web Application.deps.json
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\Web Application.runtimeconfig.json
+D:\GIT\Web Application\Web Application\obj\Release\net6.0\PubTmp\Out\Web Application.pdb
