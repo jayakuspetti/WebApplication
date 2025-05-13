@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GIT-Jenkins-Test/1.0.0": {
+        "runtime": {
+          "GIT-Jenkins-Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIT-Jenkins-Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
