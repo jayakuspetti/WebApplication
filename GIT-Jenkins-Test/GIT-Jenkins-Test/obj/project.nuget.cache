@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "waEy7Rp9wMo2OniDhIXaq/wNSxPpcyeufLSY9Bj3Uj+mGzqiEJ8Ow7kVYZiv3aRC1+GPVjS4j3o1lkk3lFLfGw==",
+  "dgSpecHash": "DyblGdkms9JyjtieO41ZvLU+jgeUo35d+sYG6r7C7Ixa9HW16WyOEJAkc5vbkqorO5i1VQ9ovWaKWtiUxOr0pg==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jayashreekushpetti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\jayashreekushpetti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\jayashreekushpetti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\jayashreekushpetti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

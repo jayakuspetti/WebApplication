@@ -1,7 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GIT\\Publish\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +30,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\GIT\\Publish\\web.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\Publish\\web.config",
+              "ToolTip": "D:\\GIT\\Publish\\web.config",
+              "RelativeToolTip": "..\\..\\..\\Publish\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T09:03:16.518Z",
+              "EditorCaption": ""
             }
           ]
         }

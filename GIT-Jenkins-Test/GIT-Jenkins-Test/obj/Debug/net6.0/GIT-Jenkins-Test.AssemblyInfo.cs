@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GIT-Jenkins-Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ab728a1fffe3c5e921187b2fa0805726d4c2e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GIT-Jenkins-Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GIT-Jenkins-Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

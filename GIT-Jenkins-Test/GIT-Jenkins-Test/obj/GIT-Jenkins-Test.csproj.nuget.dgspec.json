@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj": {}
+    "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj": {}
   },
   "projects": {
-    "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj": {
+    "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
+        "projectUniqueName": "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
         "projectName": "GIT-Jenkins-Test",
-        "projectPath": "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
+        "projectPath": "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\GIT-Jenkins-Test.csproj",
         "packagesPath": "C:\\Users\\jayashreekushpetti\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\GIT-Jenkins\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\obj\\",
+        "outputPath": "D:\\GIT\\GITHUB\\WebApplication\\GIT-Jenkins-Test\\GIT-Jenkins-Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -24,7 +24,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -33,8 +33,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -50,8 +50,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -63,24 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -89,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
